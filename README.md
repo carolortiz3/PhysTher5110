@@ -16,3 +16,9 @@ I am from Puerto Rico and I am very proud of my culture. I am very passionate ab
 - Fashion
 - Neuroscience
 
+## Favorite Open Science Tools
+
+- OpenNeuro
+- Jupyter Notebook
+
+
